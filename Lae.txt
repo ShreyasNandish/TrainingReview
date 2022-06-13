@@ -1,0 +1,8 @@
+read n1,n2,n3;
+if n1 >n2 and n1>n3
+then print n1
+
+else if n2>3 and n2>1
+ then print n2
+
+finally print n3 has the largest
